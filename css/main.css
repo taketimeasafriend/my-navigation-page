@@ -296,7 +296,6 @@ ul li {
 	background-color: #fff;
 	position: relative;
 	text-align: left;
-
 }
 .banner blockquote {
 	border: 0;
@@ -325,10 +324,10 @@ ul li {
 	Works
 -------------------------------------------------------------------------------*/
 .nav-buttons {
-	margin-top: 10px;
+	margin-top: 2px;
 	padding: 20px;
 	text-align: center;
-	border-top: 1px #000 ridge;
+	border-top: 2px #000 ridge;
 	background: linear-gradient(#bbb, #fff); /* 标准的语法 */
 }
 .nav-buttons p {
