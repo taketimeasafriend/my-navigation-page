@@ -107,7 +107,7 @@ ul li {
 }
 #header .header-content {
 	margin: 0 auto;
-	padding: 20px 10%;
+	padding: 10px 10%;
 	width: 100%;
 	-moz-transition: padding 0.3s;
 	-o-transition: padding 0.3s;
@@ -122,7 +122,7 @@ ul li {
 }
 #header.fixed .header-content {
 	border-bottom: 0;
-	padding: 20px 10%;
+	padding: 10px 10%;
 }
 #header.fixed .nav-toggle {
 	top: 18px;
@@ -142,15 +142,17 @@ ul li {
 	display: inline-block;
 }
 .navigation a {
-	color: rgba(0, 0, 0, 1);
-	font-size: 19px;
+	color: #fff;
+	font-size: 25px;
 	font-weight: 700;
-	margin-left: 40px;
+	margin-left: 20px;
 	letter-spacing: -1px;
-
+	padding: 8px;
+	background-color: #e84545;
 }
 .navigation a:hover, .navigation a.active {
-	color: #000;
+	color: #ddd;
+	border: 1px #000 solid;
 }
 .nav-toggle {
 	display: none;
