@@ -107,7 +107,7 @@ ul li {
 }
 #header .header-content {
 	margin: 0 auto;
-	padding: 30px 10%;
+	padding: 20px 10%;
 	width: 100%;
 	-moz-transition: padding 0.3s;
 	-o-transition: padding 0.3s;
@@ -122,7 +122,7 @@ ul li {
 }
 #header.fixed .header-content {
 	border-bottom: 0;
-	padding: 25px 10%;
+	padding: 20px 10%;
 }
 #header.fixed .nav-toggle {
 	top: 18px;
@@ -169,7 +169,6 @@ ul li {
 	transition: all 0.3s;
 }
 .nav-toggle:before, .nav-toggle:after {
-	border-radius: 50%;
 	content: "";
 	height: 100%;
 	left: 0;
@@ -300,7 +299,7 @@ ul li {
 .banner blockquote {
 	border: 0;
 	margin: 0;
-	padding: 12% 10% 8% 10%;
+	padding: 10% 12% 5% 12%;
 
 }
 .banner h1 {
