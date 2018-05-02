@@ -115,6 +115,23 @@ ul li {
 }
 #header .logo {
 	float: left;
+	margin-right: 20px;
+}
+#header .logo_full {
+	float: left;
+	margin-top: 16px;
+	padding: 5px;
+	font-size: 16px;
+	color: #fff;
+	background-color: #e84545;
+}
+#header .logo_simple {
+	float: left;
+	margin-top: 16px;
+	padding: 5px;
+	font-size: 16px;
+	color: #fff;
+	background-color: #45e845;
 }
 #header .logo img{
 	width: 70px;
@@ -587,4 +604,13 @@ line-height:27px;
     color: #5ed07b;
     font-size: 17px;
     font-weight: 700;
+}
+
+.tag_link {
+	margin: 10px;
+	color: #3d3d3d;
+	font-size: 16px;
+
+
+	
 }
